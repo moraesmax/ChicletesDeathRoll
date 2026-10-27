@@ -1,0 +1,12 @@
+## Interface: 120105
+## Title: Chiclete's Death Roll
+## Notes: One-click death roll duels with group announcements, stats, debts and a sarcastic narrator.
+## Version: 0.1.0
+## SavedVariables: ChicletesDeathRollDB
+## IconTexture: Interface\AddOns\ChicletesDeathRoll\ChicleteIcon
+## AddonCompartmentFunc: ChicletesDeathRoll_OnCompartmentClick
+
+Quips.lua
+Core.lua
+UI.lua
+Minimap.lua
